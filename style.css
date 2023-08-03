@@ -11,3 +11,26 @@ header a{
 	font-weight: bold;
 }
 
+.home{
+	width: 100%;
+	height: 960px;
+	background-color: #1a1a1a;
+	color: white;
+}
+
+
+.home .icon1, .home .icon2{
+	margin-top: 45px;
+	height: 212px;
+	width: 220px;
+}
+
+.home .principaltexto1, .home .principaltexto2{
+	padding: 40px;
+}
+
+.home button{
+	width: 200px;
+	font-family: sans-serif;
+}
+
