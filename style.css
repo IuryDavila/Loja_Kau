@@ -34,3 +34,26 @@ header a{
 	font-family: sans-serif;
 }
 
+.home .iconRoupa, .home .iconBiquini{
+	margin-top: 45px;
+	height: 292px;
+	width: 300px;
+}
+
+.modelos{
+	background-color: #f7edf6;
+}
+
+.modelos img{
+	width: 377px;
+	heigth: 471.25;
+	padding: 10px;
+	border-radius: 25px;
+
+}
+
+.modelos .textoModelo1{
+	font-family: serif;
+	font-size: 1.4em;
+	margin-top: 25px;
+}	
