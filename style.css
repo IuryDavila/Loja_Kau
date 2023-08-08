@@ -1,3 +1,5 @@
+
+
 header{
 	height: 120px;
 	background-color: #f7edf6;
@@ -57,3 +59,45 @@ header a{
 	font-size: 1.4em;
 	margin-top: 25px;
 }	
+
+.modelos a {
+ color: black;
+}
+
+.modelos a:hover{
+	color: gray;
+	text-decoration: none;
+}
+
+
+.rodape img{
+	width: 120px;
+	margin-top: 100px;
+	margin-bottom: 25px;
+}
+
+footer{
+		background-color: #f7edf6;
+}
+
+footer h1{
+	font-family: "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #d600ab;
+}
+
+footer .btnInstagram{
+	background:linear-gradient(135deg,rgb(224,44,44) 0%,rgb(249,197,57) 100%);
+	margin: 30px;
+	border-radius: 20px;
+	color: white;
+}
+
+footer .btnWhats{
+	background:linear-gradient(135deg,rgb(0,173,121) 0%,rgb(41,182,229) 100%);
+	margin: 30px;
+	border-radius: 20px;
+	color: white;
+}
+
+
