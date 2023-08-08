@@ -100,4 +100,8 @@ footer .btnWhats{
 	color: white;
 }
 
+footer a:hover{
+	text-decoration: none;
+}
+
 
