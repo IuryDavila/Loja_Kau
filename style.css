@@ -1,4 +1,6 @@
-
+body, html{
+	margin: 0%;
+}
 
 header{
 	height: 120px;
@@ -104,4 +106,9 @@ footer a:hover{
 	text-decoration: none;
 }
 
+
+.parallax img{
+	height: 100%;
+	width: 100%;
+}
 
