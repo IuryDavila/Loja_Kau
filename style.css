@@ -2,6 +2,8 @@ body, html{
 	margin: 0%;
 }
 
+
+
 header{
 	height: 120px;
 	background-color: #f7edf6;
@@ -106,9 +108,45 @@ footer a:hover{
 	text-decoration: none;
 }
 
+.imagem1 {
+	background-image: url(assets/teste_parallax.jpg);
+}
 
-.parallax img{
+.imagem2 {
+	background-image: url(assets/teste_parallax2.jpg);
+}
+
+.imagem3 {
+	background-image: url(assets/teste_parallax3.jpg);
+}
+
+
+.parallax .imagem1, .parallax .imagem2, .parallax .imagem3{
 	height: 100%;
 	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
 }
+
+.parallax .texto1, .parallax .texto2{
+	background-color: #f7edf6 ;
+	padding: 30px;
+	margin: 0 10px 0 10px;
+	border-left: 6px solid black;
+	border-right: 6px solid black;
+	border-radius: 45px;
+}
+
+.parallax1{
+	padding: 10px;
+	background-color: #f7edf6;
+	border-radius: 7px;
+	border: 2px solid black;
+	color: black;
+}
+
+
+
 
